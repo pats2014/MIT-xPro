@@ -9,7 +9,7 @@ License information: MIT license
 The file structure for each repository: 
 
 ## PacMen Exercise
-images/pacman1
+images/pacman1 /n
 images/pacman2
 images/pacman3
 images/pacman4
