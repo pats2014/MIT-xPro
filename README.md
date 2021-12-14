@@ -9,23 +9,23 @@ License information: MIT license
 The file structure for each repository: 
 
 ## PacMen Exercise
-images/pacman1 /n
-images/pacman2
-images/pacman3
-images/pacman4
-Index.html
-pacmen.js
+### images/pacman1
+### images/pacman2
+### images/pacman3
+### images/pacman4
+### Index.html
+### pacmen.js
 
 ## Eye Exercise
-index.html
-eyes.js
-styles.css
-Real Time Bus Tracker
-Index.html
-mapanimation.js
-styles.css
+### index.html
+### eyes.js
+### styles.css
+### Real Time Bus Tracker
+### Index.html
+### mapanimation.js
+### styles.css
 
 ## Real Time Bus Tracker
-Index.html
-mapanimation.js
-styles.css
+### Index.html
+### mapanimation.js
+### styles.css
